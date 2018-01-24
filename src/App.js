@@ -46,7 +46,7 @@ class App extends React.Component {
             <label>What is the weather for:
               <p></p>
               <input
-                placeholder={"City, Country"}
+                placeholder={"City, Country or Zip"}
                 type="text"
                 value={this.state.location}
                 onChange={this.changeLocation}
