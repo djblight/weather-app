@@ -9,3 +9,25 @@ input {
   text-align: center;
   border-color: rgb(255, 217, 0)
 }
+
+h1 {
+  font-size: 4rem;
+  margin-top: 8rem;
+  color: green;
+}
+
+form label {
+  font-size: 1.8rem;
+  color: rgb(116, 112, 112)
+}
+
+form input {
+  font-size: 1.5rem;
+  margin-top: .5rem;
+}
+
+p {
+  font-size: 2rem;
+  margin-top: 2rem;
+  color: blue;
+}
